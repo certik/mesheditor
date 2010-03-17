@@ -5,4 +5,4 @@ How to compile:
 --------------------------------------------
 - add flex_sdk/bin to your system path
 - $ make
-
+- open the file MeshEditor.swf in your browser
